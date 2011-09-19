@@ -1,0 +1,8 @@
+## Interface: 40200
+## Title: |cffcccc22D|r|cff999999erpy|rStuffing
+## Version: v0.1
+## Author: Hungtar, AlleyKat
+## Notes: An edited version of stuffing (cool addon for bags).
+## RequiredDeps: DerpyMedia
+
+stuff.lua
